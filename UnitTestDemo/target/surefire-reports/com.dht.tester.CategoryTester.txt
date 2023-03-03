@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.dht.tester.CategoryTester
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.332 s <<< FAILURE! - in com.dht.tester.CategoryTester
+testUniqueName  Time elapsed: 0.322 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <6> but was: <5>
+	at com.dht.tester.CategoryTester.testUniqueName(CategoryTester.java:70)
+
